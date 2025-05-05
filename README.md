@@ -1,12 +1,11 @@
-- 👋 Hi, I’m @Imbasava
-- 👀 I’m interested in WEB DEVELOPMENT,CYBER SECURITY AND MACHINE LEARNING
-- 🌱 I’m currently learning Machine leraning
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... in seconds away from here ->bbasavarajnayak64@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 Hi, I’m Basava!
 
-<!---
-Imbasava/Imbasava is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🌐 **Interests**: Web Development, Cybersecurity, Machine Learning, Docker, and Kubernetes  
+- 📖 **Currently Learning**: Machine Learning  
+- 🎓 **Education**:  
+  I am pursuing my B.Tech and am passionate about exploring the latest technologies in software development and cloud computing.  
+
+- ✨ **Fun Fact**: I’m just an email away from connecting!  
+
+### 📫 Reach Me:  
+bbasavarajnayak64@gmail.com  
